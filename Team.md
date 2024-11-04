@@ -7,7 +7,7 @@ title: Team
 <hr>
 <div class="veil">
 <br>
-<center><p><h4 style="color: gray; font-size: 30px; font-family: comic;">"A strong organisation needs an even stronger community to support it."</h4></p></center> 
+<center><p><h4 style="color: gray; font-size: 30px; font-family: MyCustomFont;">"A strong organisation needs an even stronger community to support it."</h4></p></center> 
 
 <center><p><h4 style="font-style: italic; font-size: 22px;">Here is the list of our dedicated team members...</h4></p></center>
 <br>
@@ -65,41 +65,10 @@ title: Team
 </p>
 <br>
 <br>
-<br>
-<p class="headings">Past Club Members:</p>
-<hr>
-<br>
-<div class="list-elements">
-<ul>
-<li>Vishnu Santosh Kumar (Co-ordinator, Hackduino 23)</li>
-<li>M. Sreerag</li>
-<li>Rahul Madhav</li>
-<li>Tanishaa Aswin</li>
-<li>Upasana Das</li>
-<li>Aritra Mukhopadhyay</li>
-<li>Abhishek.22</li>
-<li>Jyothish Kumar J. (Ex-Club Head)</li>
-<li>Shriman Keshri</li>
-<li>Sourav Mahto</li>
-<li>Oomen P. Jose (Ex-Club Head)</li>
-<li>Aritra Mukhopadhyay</li>
-<li>Vasanth Kashyap</li>
-<li>Sarin C. Jacob</li>
-<li>Sreehari C.</li>
-<li>Ajay Krishna A.</li>
-<li>Yashaswini Gupta</li>
-<li>Krishna Kant Parida</li>
-<li>Manabputra (Ex-Club Head)</li>
-<li>Jyotirmoy Shivottam</li>
-<li>Nitesh Patel</li>
-<li>Debankit Priyadarshi</li>
-<li>Devansh Sharma</li>
-<li>Abhinav Gupta</li>
-</ul>
-</div>
 
+<p style="font-size: 18px;">To see our complete list of past members, click <a href="{{  '/team/pastmembers/' }}">here.</a></p>
 <br>
-<p style="font-size: 18px;"><em>Please contact the web-masters for any discrepancies, errors or empty links in the website. We will correct it in a jiffy!!!</em></p>
+<p style="font-size: 18px;">Please contact the web-masters for any discrepancies, errors or empty links in the website. We will correct it in a jiffy!!!</p>
 <br>
 <ul>
 <li><h4>Aditya Mridul (Chief Editor)<a class="u-email" href="mailto:aditya.mridul@niser.ac.in"><img align=right src="/images/email-logo-png-gmail.png"  height="25" width="25"></a>
